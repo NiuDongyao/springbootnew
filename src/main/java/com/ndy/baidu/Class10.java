@@ -5,6 +5,7 @@ import java.util.concurrent.DelayQueue;
 
 public class Class10 {
     public static void main(String[] args) {
+        sout("3266666666");
         int[] nums = new int[]{5,7,7,8,8,10};
         //searchRange(nums, 8);
         //search(nums, 1);
